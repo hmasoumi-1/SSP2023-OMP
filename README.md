@@ -4,4 +4,4 @@ H. Masoumi, M. Verhaegen, and N. J. Myers, “Analysis of orthogonal matching pu
 
 Link to the paper: https://arxiv.org/pdf/2302.04056.pdf
 
-To reproduce Fig. 2, comment the lines 29 and 172. Then, uncomment the lines 28 and 164.
+To reproduce Fig. 2, comment the lines 29 and 172. Then, uncomment the lines 28 and 164 in "SSP23_main.m".
