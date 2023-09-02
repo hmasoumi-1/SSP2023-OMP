@@ -1,5 +1,5 @@
 # SSP2023-OMP
-This repository contains the MATLAB codes to reproduce the results in the SSP 2023 paper 
+This repository contains the MATLAB codes to reproduce the results in the SSP 2023 paper:
 
 H. Masoumi, M. Verhaegen, and N. J. Myers, “Analysis of orthogonal matching pursuit for compressed sensing in practical settings,” in Proc. IEEE Statistical Signal Process. Workshop (SSP), pp. 170–174, 2023.
 
